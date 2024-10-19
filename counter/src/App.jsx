@@ -23,7 +23,7 @@ function App() {
   
   return (
     <>
-      <h1>Chai aur react</h1>
+      <h1>Hello React</h1>
       <h2>Counter value: {counter}</h2>
 
       <button
